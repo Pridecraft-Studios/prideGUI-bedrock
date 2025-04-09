@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Pridecraft Studios' LGBTQ+ themed Resource Pack for Minecraft: Bedrock Edition GUIs",
+    "name": "PrideGUI Bedrock Edition",
+    "uuid": "b5c62b6b-2db1-47d3-ae57-fb6f4f3fd235",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "PrideGUI Bedrock Edition (Dark Mode)",
+      "type": "resources",
+      "uuid": "c95395f5-d2db-4f52-9218-2556921760b1",
+      "version": [1, 0, 0]
+    }
+  ]
+}
